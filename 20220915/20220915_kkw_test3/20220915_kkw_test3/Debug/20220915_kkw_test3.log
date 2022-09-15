@@ -1,0 +1,4 @@
+﻿  20220915_kkw_test3.cpp
+D:\C-program\20220915\20220915_kkw_test3\20220915_kkw_test3\20220915_kkw_test3.cpp(15,11): warning C4475: 'scanf' : 길이 한정자 'I'은(는) 서식 지정자에서 형식 필드 문자 'f'과(와) 함께 사용할 수 없습니다.
+D:\C-program\20220915\20220915_kkw_test3\20220915_kkw_test3\20220915_kkw_test3.cpp(18,12): warning C4475: 'printf' : 길이 한정자 'I'은(는) 서식 지정자에서 형식 필드 문자 'f'과(와) 함께 사용할 수 없습니다.
+  20220915_kkw_test3.vcxproj -> D:\C-program\20220915\20220915_kkw_test3\Debug\20220915_kkw_test3.exe
