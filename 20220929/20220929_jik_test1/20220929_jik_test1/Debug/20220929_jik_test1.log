@@ -1,0 +1,6 @@
+﻿  20220929_jik_test1.cpp
+D:\C-program\20220929\20220929_jik_test1\20220929_jik_test1\20220929_jik_test1.cpp(13,10): error C2065: 'num': 선언되지 않은 식별자입니다.
+D:\C-program\20220929\20220929_jik_test1\20220929_jik_test1\20220929_jik_test1.cpp(13,19): error C2065: 'num': 선언되지 않은 식별자입니다.
+D:\C-program\20220929\20220929_jik_test1\20220929_jik_test1\20220929_jik_test1.cpp(13,28): error C2065: 'num': 선언되지 않은 식별자입니다.
+D:\C-program\20220929\20220929_jik_test1\20220929_jik_test1\20220929_jik_test1.cpp(15,31): error C2065: 'num': 선언되지 않은 식별자입니다.
+D:\C-program\20220929\20220929_jik_test1\20220929_jik_test1\20220929_jik_test1.cpp(17,5): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
